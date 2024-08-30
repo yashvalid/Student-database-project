@@ -1,5 +1,5 @@
-Student Database Management System
-This project is a simple Student Database Management System implemented in C++. It allows you to add, display, clear, and search student data using a command-line interface. The student data is stored in a CSV file (studdata.csv) for persistence.
+Student Data Management System
+This project is a simple Student Data Management System implemented in C++. It allows you to add, display, clear, and search student data using a command-line interface. The student data is stored in a CSV file (studdata.csv) for persistence.
 
 Features:
 1. Add Student Data: Add a new student's information to the database and save it to a CSV file.
